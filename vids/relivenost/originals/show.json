@@ -1,0 +1,25 @@
+{
+    "show": "Relive Nostalgia: Originals",
+    "episodes": [
+        {
+            "title": "Classic 90s Arcade Games",
+            "description": "Exploring the legendary arcade titles that defined a generation."
+        },
+        {
+            "title": "The Rise of Early Consoles",
+            "description": "A deep dive into gaming history from NES to PlayStation 1."
+        },
+        {
+            "title": "Retro PC Gaming",
+            "description": "How DOS, early Windows, and floppy disk games changed gaming forever."
+        },
+        {
+            "title": "Handheld Nostalgia",
+            "description": "From Game Boy to PSP—reliving portable gaming’s golden era."
+        },
+        {
+            "title": "Hidden Gems of the 2000s",
+            "description": "Underrated classics that deserve a second look."
+        }
+    ]
+}
